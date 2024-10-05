@@ -22,8 +22,7 @@
         }
 
         function checkSignupInput() {
-            // 필요한 경우 회원가입 입력 값 검증 로직을 추가하세요
-            // 예를 들어, 비밀번호 확인 등을 체크할 수 있습니다.
+         
             return true;
         }
     </script>
